@@ -1,0 +1,2 @@
+# TransportX-A-Transportation-Company-Computerisation-Software
+The TransportX is a software that can help a transport company computerize various book keeping activities associated with its operations. The transport company receives consignments at its different offices to be forwarded to different branch offices across the country. Automated process for issuing bill, allotment of truck, revenue calculations and statistical data computation like idle time, waiting period etc.
